@@ -6,7 +6,7 @@ This case gets data from schools in Fortaleza - Brazil It treat the data evaluat
 
 The blue point represents your location, green point represents the closest school and red points represent other schools considering max distance parameter.
 
-Download shool dataset
+Download school dataset
 https://dados.gov.br/dados/conjuntos-dados/unidades-educacionais-sme
 
 How to run the project:
