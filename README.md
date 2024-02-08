@@ -15,4 +15,4 @@ Use requirements.txt to set up the Libraries.
 Run school_location.ipynb.
 
 
-![My Image](example.jpg)
+![My Image](example.png)
