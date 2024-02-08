@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+    # Database - Postgresql
+  postgresql:
+    container_name: postgresql
+    image: mdillon/postgis
+    environment:
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "postgres"
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./base:/var/lib/postgresql/data
