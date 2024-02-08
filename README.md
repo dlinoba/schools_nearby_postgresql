@@ -10,10 +10,10 @@ Download shool dataset
 https://dados.gov.br/dados/conjuntos-dados/unidades-educacionais-sme
 
 How to run the project:
-Use docker-compose.yml whit this command "docker-compose up -d" to create a Postgresql Container.
-Use requirements.txt to set up the Libraries.
+Use docker-compose.yml whit this command "docker-compose up -d" to create a Postgresql Container.<br />
+Use requirements.txt to set up the Libraries.<br />
 Run school_location.ipynb.
 
-#example of result
+# example of result
 
 ![My Image](example.png)
