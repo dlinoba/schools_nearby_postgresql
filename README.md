@@ -17,3 +17,6 @@ Run school_location.ipynb.
 # example of result
 
 ![My Image](example.png)
+
+# example of result with tracing path
+![My Image](example_path.png)
